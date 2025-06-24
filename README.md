@@ -8,7 +8,7 @@ After 14 years as a Telecom Engineer, I'm now channeling my analytical expertise
 
 I'm actively deep-diving into web development with Django, focusing on robust backend systems and crafting engaging user interfaces. My immediate goal is to complete a series of 30-day small projects, simulating junior developer experiences to rapidly expand my practical Python skills.
 
-Looking ahead, I'm excited by the prospect of:
+### Looking ahead, I'm excited by the prospect of:
 
 Building scalable applications such as advanced search engines and efficient web scrapers.
 
@@ -20,23 +20,23 @@ Actively contributing to open-source projects.
 
 🛠️ Technologies I'm Learning / Using:
 
-Languages: Python (my primary focus)
+**Languages:** Python (my primary focus)
 
-Web Frameworks: Django
+**Web Frameworks:** Django
 
-Frontend Basics: HTML, CSS (essential for a holistic understanding, though backend remains my core)
+**Frontend Basics:** HTML, CSS (essential for a holistic understanding, though backend remains my core)
 
-Databases: SQLite, SQL
+**Databases:** SQLite, SQL
 
-Version Control: Git (currently using v2.5), GitHub
+**Version Control:** Git (currently using v2.5), GitHub
 
-Tools: VS Code (actively learning)
+**Tools:** VS Code (actively learning)
 
 ✨ My Current Projects:
 
-MarketHub Loja_test: A mini e-commerce platform built with Django. This hands-on project is central to applying and expanding my skills in user management, product handling, and practical web architecture.
+**MarketHub Loja_test:** A mini e-commerce platform built with Django. This hands-on project is central to applying and expanding my skills in user management, product handling, and practical web architecture.
 
-Football Player Search Engine (In Progress/Aspiration): Born from my Code in Place 2025 project, this mini search engine for players in basic Python is my next scalability challenge. I aim to integrate libraries like Pandas, build a web interface with a database, and explore APIs for auto-updating player statistics throughout the season.
+**Football Player Search Engine (In Progress/Aspiration):** Born from my Code in Place 2025 project, this mini search engine for players in basic Python is my next scalability challenge. I aim to integrate libraries like Pandas, build a web interface with a database, and explore APIs for auto-updating player statistics throughout the season.
 
 🌱 What's Next:
 
