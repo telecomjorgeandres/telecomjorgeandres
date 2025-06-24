@@ -1,4 +1,4 @@
-Hi there 👋 I'm Jorge Andrés!
+## Hi there 👋 I'm Jorge Andrés!
 
 My passion for computation and informatics spans a lifetime, ignited at just 7 years old with MS-DOS and Windows 3.1. This early fascination led to my first job in computer repair, building a foundation for solving technical challenges.
 
